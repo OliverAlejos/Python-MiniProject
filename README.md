@@ -1,3 +1,6 @@
 # Python-MiniProject
 
-The code plots American gas prices over the course of 2015
+The code plots weekly U.S. All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon)
+from 2015.
+https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021
+See here for the data.
