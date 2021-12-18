@@ -31,5 +31,5 @@ plt.grid()
 
 left = (1,5,2015)
 right = (12,18,2015)
-
+ 
 plt.show()
